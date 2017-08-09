@@ -8,15 +8,16 @@ Before  going further please know few thing about RASP or watch my previous vide
 ## Requirement:
 
 ```
-Vulnerable application: I have developed a Vulnerable PHP Application to demonstrate SQL Injection Vulnerability.
-(Available in my Github repository)
+#Vulnerable application: 
+I have developed a Vulnerable PHP Application to demonstrate SQL Injection Vulnerability.(Available in my Github repository)
 
-RASP Model supported on PHP 5.6.x to 7.x 
+#RASP Model supported on PHP 5.6.x to 7.x 
 
-RASP(Written for PHP Application): It just begining model to show how RASP works to  prevent SQL injection in PHP Application.
+#RASP(Written for PHP Application): 
+It just begining model to show how RASP works to  prevent SQL injection in PHP Application.
 In upcoming future video, i will demonstrate RASP With other OWASP Top 10 Vulnerabilities.
 
-Database:
+#Database:
 Vulnerable php Application (Mysql):vuln-app (database name)
 RASP Rule(Redis): Key:Value Concept (for better preformance)
 ```
@@ -68,7 +69,7 @@ RASP will automatically run in Defending mode Now When have rules ready to block
 
 ## Useful links:
 1. [[FOS] RASP (Runtime Application Self Protection) Security](https://www.youtube.com/watch?v=5yKH3nFZ9lY)
-2. [Kali](https://www.kali.org/)
-3. [Demo Vulnerable App](https://github.com/umarfarook882/Tornado_Demo_Vuln_App)
-4. [Sqreen](https://blog.sqreen.io/)
+2. [Demo Vulnerable App](https://github.com/umarfarook882/Tornado_Demo_Vuln_App)
+3. [Kali](https://www.kali.org/)
+
 
